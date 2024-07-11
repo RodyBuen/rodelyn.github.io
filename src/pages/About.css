@@ -1,0 +1,29 @@
+#about-info {
+  min-height: 50vh;
+}
+
+#about img {
+width: 300px;
+border-radius: 10px;
+box-shadow: 20px 20px 20px #968888;
+}
+#about img:hover {
+  width: 30px;
+  transition: all .5s ease;
+  }
+  #about .about-me:hover {
+    color: #d3d3ce;
+    filter: drop-shadow(0 0 00.75rem pink);
+    text-shadow: 0 0 20px rgb(55, 0, 255);
+    transition: all 0.45 ease;
+    }
+    #about feSpecularLighting {
+      font-size: 20px;
+      text-decoration: none;
+      color: pink;
+      }
+      #about  {
+        background: #b6b6b5;
+        padding-top: 50px;
+        padding-bottom: 50px;
+        }
